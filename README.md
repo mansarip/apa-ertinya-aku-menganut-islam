@@ -5,13 +5,13 @@ Terjemahan kitab "ماذا يعني انتمائي للإسلام" tulisan Fathi
 ## Kandungan
 
 ### Bahagian Pertama
-Mukaddimah Bahagian Pertama
-Saya Mestilah Muslim Di Sudut Akidah.
-Saya Mestilah Muslim Di Sudut Ibadat.
-Saya Mestilah Muslim Di Sudut Akhlak.
-Saya Mestilah Muslim Di Sudut Berkeluarga.
-Saya Mestilah Mampu Mengawal Diri.
-Saya Mestilah Yakin Bahawa Masa Depan Di Tangan Islam. 
+1. Mukaddimah Bahagian Pertama
+1. Saya Mestilah Muslim Di Sudut Akidah.
+1. Saya Mestilah Muslim Di Sudut Ibadat.
+1. Saya Mestilah Muslim Di Sudut Akhlak.
+1. Saya Mestilah Muslim Di Sudut Berkeluarga.
+1. Saya Mestilah Mampu Mengawal Diri.
+1. Saya Mestilah Yakin Bahawa Masa Depan Di Tangan Islam. 
 
 
 ### Bahagian Kedua
@@ -38,4 +38,13 @@ kerelaan.
 
 Seterusnya kami akan menerangkan secara ringkas sifat-sifat yang wajib
 dimiliki oleh setiap muslim untuk memastikan penggabungan dengan agama ini
-merupakan penggabungan yang sah dan benar. 
+merupakan penggabungan yang sah dan benar.
+
+Firman Allah Subhanahu Wata'ala: 
+
+هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ قَبْلُ وَفِي هَذَا لِيَكُونَ الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ
+
+*Dia menamakan kamu: Orang-orang Islam semenjak dahulu dan di dalam (Al-Quran)
+ini, supaya Rasulullah (Muhammad) menjadi saksi yang menerangkan kebenaran
+perbuatan kamu dan supaya kamu pula layak menjadi orang-orang yang memberi
+keterangan kepada umat manusia (tentang yang benar dan yang salah).* (Surah Al-Hajj 22: Ayat 78). 
